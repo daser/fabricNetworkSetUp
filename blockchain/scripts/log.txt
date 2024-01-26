@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: agreement_1:3cd368cffce6c774fa783aead6fbf2b48ee6885bc90f7eaa016f22299d09a97f, Label: agreement_1
